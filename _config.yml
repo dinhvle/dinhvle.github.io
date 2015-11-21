@@ -1,0 +1,18 @@
+# Site settings
+title: Dinh Le
+description: Dinh Le's personal blog.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dinhvle.com" # the base hostname & protocol for your site
+
+author:
+  fullname: Dinh Le
+  github: dinhvle
+  twitter: dinhvle
+  # disqus: your_disqus_username
+  # googleplus: link_to_googleplus_account
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown

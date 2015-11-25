@@ -1,6 +1,6 @@
 # Site settings
-title: Dinh V. Le
-description: Dinh Le's personal blog.
+title: DVL
+description: Dinh V. Le's personal blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dinhvle.com" # the base hostname & protocol for your site

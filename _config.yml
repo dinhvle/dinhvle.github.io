@@ -1,18 +1,33 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Dinh Le
-description: Dinh V. Le's personal blog.
-
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: Dinh V Le
+email: dinh.v.le@gmail.com
+description: >
+  Awesome site description here
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dinhvle.com" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
 
-author:
-  fullname: Dinh Le
-  github: dinhvle
-  twitter: dinhvle
-  # disqus: your_disqus_username
-  # googleplus: link_to_googleplus_account
-
-# google_analytics: 'UA-XXXXXXXX-X'
+name: 'Dinh V Le'
+bio: >
+  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
+  Ne solet nostrum complectitur pri, vis ut inani populo.
+author_image: "/assets/images/author.jpg"
+twitter_username: dinhvle
+github_username:  dinhvle
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate

@@ -1,5 +1,7 @@
 _site
 _drafts
+.ruby-gemset
+.ruby-version
 .sass-cache
 .jekyll-metadata
 .DS_Store

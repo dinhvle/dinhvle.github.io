@@ -27,8 +27,8 @@ amp-img {
 
 $rs: 16px;
 
-$font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
+$font-serif: 'Lora', Georgia, Cambria, "Times New Roman", Times, serif;
+$font-sans: 'Open Sans', "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -232,7 +232,7 @@ body {
     margin-bottom: 50px;
   }
   .author-image {
-    background-image: url({{ site.baseurl }}{{site.author_image}});
+    background-image: url({{ site.baseurl }}{{ site.author_image }});
     display: inline-block;
     width: 30px;
     height: 30px;

@@ -9,7 +9,7 @@
 title: Dinh V. Le
 email: dinh.v.le@gmail.com
 description: >
-  My personal website to share my writings and projects. 
+  on learning and programming
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dinhvle.com" # the base hostname & protocol for your site
@@ -17,11 +17,12 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Dinh V. Le'
 bio: >
-  Tinkerer, life-long leaner and amateur ukulele player.
+  Tinkerer, life-long leaner, amateur ukulele player and aspiring polymath.
   Currently at Galvanize learning web development.
 author_image: "/assets/images/author.jpg"
 twitter_username: dinhvle
 github_username:  dinhvle
+linkedin_username: dinhvle
 
 # Build settings
 markdown: kramdown

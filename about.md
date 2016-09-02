@@ -8,4 +8,4 @@ I'm Dinh, and welcome to my website. I am from Madison, Wisconsin but living in 
 
 Current favorite activity, reading on my kayak.  
 
-<amp-img width="600" height="300" layout="responsive" src="/assets/images/austin.jpg"></amp-img>
+<amp-img width="1280" height="720" layout="responsive" src="/assets/images/austin.jpg"></amp-img>

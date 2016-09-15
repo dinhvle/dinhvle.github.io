@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Dinh V. Le'
 bio: >
-  Tinkerer, life-long leaner, amateur ukulele player and aspiring polymath.
+  Tinkerer, life-long learner, amateur ukulele player and aspiring polymath.
   Currently at Galvanize learning web development.
 author_image: "/assets/images/author.jpg"
 twitter_username: dinhvle

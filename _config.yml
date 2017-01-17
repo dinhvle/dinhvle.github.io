@@ -8,20 +8,20 @@
 # Site settings
 title: Dinh V. Le
 email: dinh.v.le@gmail.com
-description: >
+description:
   on learning and programming
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dinhvle.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+paginate:	10 # The number of posts to show per page on your homepage
 
 name: 'Dinh V. Le'
-bio: >
+bio:
   Tinkerer, life-long learner, amateur ukulele player and aspiring polymath.
-  Currently at Galvanize learning web development.
+  Currently learning and writing code in Austin.
 author_image: "/assets/images/author.jpg"
 twitter_username: dinhvle
-github_username:  dinhvle
+github_username: dinhvle
 linkedin_username: dinhvle
 
 # Build settings

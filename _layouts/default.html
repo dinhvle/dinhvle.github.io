@@ -2,9 +2,12 @@
 <html ⚡ lang="en">
   {% include head.html %}
   <body>
-    {% include analytics.html %}
     {% include header.html %}
 
     {{ content }}
+
+    {% if site.analytics_id %}
+      {% include analytics.html id=site.analytics_id %}
+    {% endif %}    
   </body>
 </html>

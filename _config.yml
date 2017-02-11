@@ -24,6 +24,8 @@ twitter_username: dinhvle
 github_username: dinhvle
 linkedin_username: dinhvle
 
+analytics_id: UA-84756508-1
+
 # Build settings
 markdown: kramdown
 

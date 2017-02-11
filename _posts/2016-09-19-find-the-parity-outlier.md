@@ -3,7 +3,7 @@ layout: post
 title: Find the parity outlier
 ---
 
-To practice and sharpen my Javascript skill, I've been trying to do challenges at [Codewars](https://www.codewars.com){:target="_blank"} whenever I have time. Here is a challenge I've done recently, and how I solved it.
+To practice and sharpen my Javascript skill, I've been trying to do challenges at [Codewars](https://www.codewars.com){:target="_blank" rel="noopener"} whenever I have time. Here is a challenge I've done recently, and how I solved it.
 
 #### Challenge
 

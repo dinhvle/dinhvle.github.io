@@ -1,5 +1,5 @@
 @import 'bourbon/bourbon';
-@import 'syntax-highlighting';
+@import 'syntax-highlighting/syntax-highlighting';
 
 $grey-color: #828282;
 
@@ -229,7 +229,6 @@ body {
     line-height: 30px;
     margin-right: 8px;
     margin-bottom: -10px;
-    float: left;
     background-size: cover;
     border-radius: 100%;
     text-indent: -9999px;

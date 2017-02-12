@@ -21,7 +21,7 @@ Should return: 160
 
 #### Solution
 
-```javascript
+``` javascript
 function findOutlier(integers){
     var odds = [];
     var evens = [];

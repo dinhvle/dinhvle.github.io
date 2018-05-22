@@ -3,7 +3,7 @@ layout: default
 sitemap:
     priority: 1.0
     changefreq: 'monthly'
-    lastmod: 2016-06-12T00:00:00-05:00
+    lastmod: 2018-05-21T00:00:00-05:00
 ---
 
 <main class="content" role="main">
@@ -24,7 +24,7 @@ sitemap:
             <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
           </section>
           <div class="post-meta">
-            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
           </div>
         </div>
       </article>

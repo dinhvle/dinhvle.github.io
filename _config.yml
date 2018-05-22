@@ -18,7 +18,7 @@ paginate:	10 # The number of posts to show per page on your homepage
 name: 'Dinh V. Le'
 bio:
   Tinkerer, life-long learner, amateur ukulele player and aspiring polymath.
-  Currently learning and writing code in Austin.
+  Currently learning and writing code in the Midwest.
 author_image: "/assets/images/author.jpg"
 twitter_username: dinhvle
 github_username: dinhvle
@@ -35,5 +35,5 @@ kramdown:
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate

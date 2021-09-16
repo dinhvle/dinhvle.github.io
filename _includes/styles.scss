@@ -447,7 +447,7 @@ code {
 
 pre {
   padding: 8px 12px;
-  overflow-x: scroll;
+  // overflow-x: scroll;
   > code {
     border: 0;
     padding-right: 0;
@@ -511,6 +511,10 @@ pre {
     p {
       font-family: $font-serif;
       margin: 0;
+    }
+    a {
+      color: #333333;
+      text-decoration: underline;
     }
     .card-description {
       font-size: 18px;

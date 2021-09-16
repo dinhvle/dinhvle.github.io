@@ -28,11 +28,13 @@ analytics_id: UA-84756508-1
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 kramdown:
   parse_block_html: true
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: shell
 
 sass:
   style: compressed
